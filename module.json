@@ -3,7 +3,7 @@
   "name": "real-estate-sales-progression-api",
   "display_name": "Real Estate Sales Progression API",
   "description": "Versioned HTTP contract for team-scoped sales progression.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "adapter",
   "provider": "Liberu\\RealEstate\\SalesProgressionApi\\SalesProgressionApiServiceProvider",
   "requires": {
